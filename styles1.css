@@ -1,0 +1,10 @@
+.facebook-link {
+    font-size: 1.5rem; /* Tăng kích thước font chữ cho liên kết */
+    color: #1877f2; /* Màu xanh đặc trưng của Facebook */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.facebook-link:hover {
+    color: #0d4d99; /* Màu xanh đậm khi hover */
+}
